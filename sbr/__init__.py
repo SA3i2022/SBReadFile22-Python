@@ -6,4 +6,4 @@ from sbr.CNpyHeader import *
 from sbr.CSBFile70 import *
 from sbr.CSBPoint import *
 from sbr.DataLoader import *
-from sbrSBReadFile import *
+from sbr.SBReadFile import *
